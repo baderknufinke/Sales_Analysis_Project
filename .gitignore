@@ -1,0 +1,20 @@
+# macOS files
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+
+# Raw data files
+data_raw/
+
+# Airflow
+airflow/logs/
+airflow/__pycache__/
+
+# dbt
+target/
+dbt_packages/
+
+# VS Code
+.vscode/
