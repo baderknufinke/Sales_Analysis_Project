@@ -18,3 +18,15 @@ dbt_packages/
 
 # VS Code
 .vscode/
+
+# Secrets
+.env
+.env.*
+
+# Python artifacts
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
